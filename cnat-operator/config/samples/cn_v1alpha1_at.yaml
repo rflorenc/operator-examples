@@ -1,0 +1,7 @@
+apiVersion: cn.example.com/v1alpha1
+kind: At
+metadata:
+  name: at-sample
+spec:
+  schedule: "2020-07-28T14:49:11Z"
+  command: "env"
