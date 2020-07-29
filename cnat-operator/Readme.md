@@ -38,6 +38,8 @@ Create Controller [y/n]
 y
 ```
 
+`$ Modify at_types.go and at_controller.go accordingly.` 
+
 `$ kubectl apply -f config/crd/bases/cn.example.com_ats.yaml`
 
 `$ make install && make run`
