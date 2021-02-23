@@ -1,4 +1,4 @@
-## cnat-operator example [1] with minor changes to schedule calculation.
+## cnat-operator example
 Updated build with operator-sdk v0.19.0
 
 ## Dev environment setup
@@ -62,4 +62,3 @@ NAME            READY   STATUS      RESTARTS   AGE
 at-sample-pod   0/1     Completed   0          2m11s
 ```
 
-[1] https://programming-kubernetes.info/
